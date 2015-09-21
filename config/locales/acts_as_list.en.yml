@@ -1,0 +1,18 @@
+
+en:
+  admin:
+    actions:
+      move_higher:
+        title: "Move Higher"
+        menu: "Move Higher for %{model_label} '%{object_label}'"
+        breadcrumb: "Move Higher"
+        link: "Move Higher"
+        bulk_link: "Move Higher selected %{model_label_plural}"
+        done: "Move higher"
+      move_lower:
+        title: "Move Lower"
+        menu: "Move Lower for %{model_label} '%{object_label}'"
+        breadcrumb: "Move Lower"
+        link: "Move Lower"
+        bulk_link: "Move Lower selected %{model_label_plural}"
+        done: "Move Lower"
